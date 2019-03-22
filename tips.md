@@ -1,6 +1,6 @@
-1.用node打开一个名为node的js文件，结果node无法运行，一直报错，发现文件名不能是node，更改后正常运行。
+##1.用node打开一个名为node的js文件，结果node无法运行，一直报错，发现文件名不能是node，更改后正常运行。
 
-2.（string[not array]）.includes('')====>>>>true，
+>2.（string[not array]）.includes('')====>>>>true，
 string.indexOf('')====>>>>>>>0，
 
 3.结构赋值重命名，{name:jiji}={name:'coco'}----->jiji==>coco
